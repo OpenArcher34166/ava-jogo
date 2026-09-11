@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 56px; 
+}
+
+.hero-section {
+    background: linear-gradient(rgba(15, 25, 35, 0.85), rgba(15, 25, 35, 0.85)), 
+                url('https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S1_2560x1440-d4f39cedb4474f65afc7cdd63518f173') no-repeat center center;
+    background-size: cover;
+    height: 80vh;
+}
+
+.navbar {
+    background-color: #0f1923 !important;
+}
+
+.btn-danger {
+    background-color: #ff4655;
+    border-color: #ff4655;
+}
+
+.btn-danger:hover {
+    background-color: #e03643;
+    border-color: #e03643;
+}
+
+.card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
