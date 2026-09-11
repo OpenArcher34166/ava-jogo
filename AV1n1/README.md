@@ -8,4 +8,8 @@ Página de divulgação desenvolvida para a atividade de Tópicos Especiais em P
 - Bootstrap 5
 
 ## Desenvolvedor
-- Trabalho individual estruturado com foco em responsividade e design.
+- Trabalho estruturado com foco em responsividade e design.
+  
+## equipe
+- Jose Valdinei
+- Vandi Junior 
